@@ -1,1 +1,1 @@
-# YandexHandbookPython
+# Основы Python
